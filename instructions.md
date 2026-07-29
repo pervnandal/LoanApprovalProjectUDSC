@@ -34,3 +34,6 @@ Windows : .venv\Scripts\activate.bat
 ```
 
 8. Test Docker container locally
+
+9. http://15.206.84.201:8501 --> streamlit
+10. http://15.206.84.201:8000/docs --> fastapi swagger / docs
